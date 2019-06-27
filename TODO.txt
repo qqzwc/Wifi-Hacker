@@ -1,0 +1,1 @@
+Add threads that check the passwords in a random way-every thread gets a range of passwords to check. It can be something like binary search.
