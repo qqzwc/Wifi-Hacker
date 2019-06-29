@@ -3,7 +3,7 @@ A simple program to hack WiFi nets.
 
 Abilities:
 ==========
-Brute force hacking.
+Random passwords hacking.
 
 Passwords list hacking.
 
